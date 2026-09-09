@@ -1,4 +1,4 @@
-# 🐾 ZzPet - Control de Luces LED Inteligentes (Tuya / Smart Life + Xiaozhi AI)
+<img width="2752" height="1536" alt="Flujo_de_Control_de_Luces" src="https://github.com/user-attachments/assets/0827c9a7-d22b-47eb-98ce-07887d77f68b" /># 🐾 ZzPet - Control de Luces LED Inteligentes (Tuya / Smart Life + Xiaozhi AI)
 
 Controla tu tira de luces LED inteligente por voz o mediante Inteligencia Artificial usando **Xiaozhi AI / ZzPet** y el protocolo **MCP (Model Context Protocol)**, comunicándote directamente de forma local con dispositivos compatibles con el ecosistema **Tuya / Smart Life**.
 
@@ -7,6 +7,8 @@ Controla tu tira de luces LED inteligente por voz o mediante Inteligencia Artifi
 ---
 
 ## 🌟 ¿Qué hace este proyecto?
+
+<img width="2752" height="1536" alt="Flujo_de_Control_de_Luces" src="https://github.com/user-attachments/assets/d4ba849c-7f91-4d0e-ab01-d42a89f71294" />
 
 Este proyecto te permite conectar tu mascota o asistente de IA (**Xiaozhi / ZzPet**) con las luces LED de tu habitación o escritorio:
 
@@ -34,6 +36,8 @@ Este proyecto te permite conectar tu mascota o asistente de IA (**Xiaozhi / ZzPe
 [ Tira LED Inteligente Tuya ]
 ```
 
+<img width="1536" height="2752" alt="Guía_de_iluminación_con_IA" src="https://github.com/user-attachments/assets/221492c9-07e7-42c4-8fd1-c4f964e01850" />
+
 ---
 
 ## 📋 Requisitos Previos
@@ -53,6 +57,9 @@ Para que tu PC pueda controlar la tira LED sin pasar por internet, necesitas 3 d
 3. **Dirección IP local** de la tira en tu router (ejemplo: `192.168.1.50`).
 
 Sigue estos sencillos pasos:
+
+<img width="1536" height="2752" alt="Guía__extracción_de_llaves_locales" src="https://github.com/user-attachments/assets/bcfcc283-8790-439f-a4d0-73cb9190b610" />
+
 
 ### Paso 1: Configurar la app en tu teléfono
 1. Descarga la aplicación **Smart Life** o **Tuya Smart** en tu teléfono móvil (desde Google Play Store o Apple App Store).
