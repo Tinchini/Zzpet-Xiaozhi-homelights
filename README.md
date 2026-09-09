@@ -1,4 +1,4 @@
-<img width="2752" height="1536" alt="Flujo_de_Control_de_Luces" src="https://github.com/user-attachments/assets/0827c9a7-d22b-47eb-98ce-07887d77f68b" /># 🐾 ZzPet - Control de Luces LED Inteligentes (Tuya / Smart Life + Xiaozhi AI)
+# 🐾 ZzPet - Control de Luces LED Inteligentes (Tuya / Smart Life + Xiaozhi AI)
 
 Controla tu tira de luces LED inteligente por voz o mediante Inteligencia Artificial usando **Xiaozhi AI / ZzPet** y el protocolo **MCP (Model Context Protocol)**, comunicándote directamente de forma local con dispositivos compatibles con el ecosistema **Tuya / Smart Life**.
 
