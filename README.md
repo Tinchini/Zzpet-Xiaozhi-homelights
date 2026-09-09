@@ -2,6 +2,7 @@
 
 Controla tu tira de luces LED inteligente por voz o mediante Inteligencia Artificial usando **Xiaozhi AI / ZzPet** y el protocolo **MCP (Model Context Protocol)**, comunicándote directamente de forma local con dispositivos compatibles con el ecosistema **Tuya / Smart Life**.
 
+![Proyecto](./img/ChatGPT Image 4 sept 2026, 13_02_39.png)
 ---
 
 ## 🌟 ¿Qué hace este proyecto?
