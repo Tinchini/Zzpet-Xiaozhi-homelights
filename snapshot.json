@@ -1,0 +1,21 @@
+{
+    "timestamp": 1787389593.7688987,
+    "devices": [
+        {
+            "id": "TU_DEVICE_ID_AQUI",
+            "ip": "192.168.1.X",
+            "active": 2,
+            "encrypt": true,
+            "productKey": "TU_PRODUCT_KEY_AQUI",
+            "name": "Tira LED",
+            "key": "TU_LOCAL_KEY_AQUI",
+            "mac": "",
+            "ability": 0,
+            "token": "",
+            "wf_cfg": "",
+            "dev_type": "default",
+            "origin": "broadcast",
+            "ver": "3.3"
+        }
+    ]
+}

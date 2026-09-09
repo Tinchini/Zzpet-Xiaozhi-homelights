@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "zzpet-luz": {
+      "type": "stdio",
+      "command": "python",
+      "args": ["luz_mcp.py"],
+      "disabled": false
+    }
+  }
+}

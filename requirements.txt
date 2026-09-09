@@ -1,0 +1,12 @@
+# Librerías para el servidor traductor y control de luces Tuya
+tinytuya>=1.14.0
+requests>=2.31.0
+pyserial>=3.5
+
+# Librerías para el cliente MCP y conexión con Xiaozhi
+python-dotenv>=1.0.0
+websockets>=11.0.3
+mcp>=1.20.0
+fastmcp>=2.13.0
+pydantic>=2.0.0
+mcp-proxy>=0.10.0

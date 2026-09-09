@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "luz_led": {
+      "command": "curl",
+      "args": [
+        "-s",
+        "http://127.0.0.1:8080/luz/{action}"
+      ],
+      "description": "Controla las luces LED. action puede ser: on, off, brillo/50, color/azul"
+    }
+  }
+}
